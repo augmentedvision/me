@@ -5,7 +5,7 @@ first_name: Htay_Hlaing_Win
 studentNumber: z5443603 # if you're not at UNSW, your org name, e.g. BVN
 # accounts
 stackOverflowLink: https://stackoverflow.name/htay-hlaing-win
-github: https://github.com/augmentedvision/me.git
+github: augmentedvision
 # This format is called YAML which stands for Yet Another Markup Language
 # It's supposed to be machine readable, and human readable. It does a pretty
 # good job of both of those goals, but there are some gotchas:
